@@ -139,5 +139,3 @@ If you found this repository helpful, consider giving it a ⭐ on GitHub!
 ---
 
 > This repository showcases my foundational Python development skills during my internship journey.
-
-```
