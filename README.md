@@ -73,7 +73,7 @@ A command-line Rock Paper Scissors game where:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/MuhammadTahir-1-9-4/CodSoft-Python-Internship-2023.git
+git clone https://github.com/mtahir-ds/CodSoft-Python-Internship-2023.git
 ````
 
 ### 2️⃣ Navigate into the project folder
